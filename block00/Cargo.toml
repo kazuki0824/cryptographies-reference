@@ -1,0 +1,8 @@
+[package]
+name = "cryptography-00"
+version = "0.1.0"
+edition = "2021"
+keywords = ["crypto", "block-cipher"]
+categories = ["cryptography", "no-std"]
+description = "No-std cryptography library for Rust"
+

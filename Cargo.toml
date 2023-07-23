@@ -1,0 +1,5 @@
+[workspace]
+members = [
+  "block00",
+  "block40"
+]
